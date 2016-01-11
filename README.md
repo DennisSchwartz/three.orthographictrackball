@@ -14,7 +14,7 @@ npm i three.orthographictrackball
 ## Usage
 ```
 var OrthographicTrackballControls = require('three.orthographictrackball');
-var controls = controls = new OrthographicTrackballControls(camera, domElement);
+var controls = new OrthographicTrackballControls(camera, domElement);
 ```
 ## License
 
