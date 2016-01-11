@@ -1,0 +1,20 @@
+{
+  "name": "three.orthographictrackball",
+  "version": "0.0.1",
+  "description": "CommonJS adaptation of THREE.OrthographicTrackballControls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "trackball",
+    "mouse",
+    "controls"
+  ],
+  "author": "Dennis Schwartz",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.73.0"
+  }
+}
